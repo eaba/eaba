@@ -6,6 +6,8 @@
 ![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eaba&hide=jupyter%20notebook,html,javascript)
 ![repo stats](https://github-readme-stats.vercel.app/api?username=eaba&show_icons=true&line_height=27)
 
+[![eaba's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mestical)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **eaba/eaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
