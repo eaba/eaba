@@ -1,6 +1,6 @@
 ### Hi there, I'm Ebere!! 👋
 
-[![GitHub rogeralsing](https://img.shields.io/github/followers/eaba?label=follow&style=social)](https://github.com/eaba)
+[![GitHub eaba](https://img.shields.io/github/followers/eaba?label=follow&style=social)](https://github.com/eaba)
 
 
 ![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eaba&hide=jupyter%20notebook,html,javascript)
