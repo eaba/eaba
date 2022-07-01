@@ -6,9 +6,15 @@
 ![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eaba&hide=jupyter%20notebook,html,javascript)
 ![repo stats](https://github-readme-stats.vercel.app/api?username=eaba&show_icons=true&line_height=27)
 
-<img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=eaba&skills=C%23,TypeScript,JSON,JavaScript,CSS,HTML,HTML+Razor,C%2B%2B,C,Python,Java,Shell,F%23,Go&width=820"
-/>
+---
+
+<div align='center'>
+
+### 🏆 Github Profile Trophies
+
+  <img src="https://github-profile-trophy.vercel.app/?username=eaba&theme=gruvbox"/>
+
+</div>
 
 <!--
 **eaba/eaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
