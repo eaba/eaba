@@ -1,11 +1,4 @@
 ### Hi there, I'm Ebere!! 👋
-
-[![GitHub eaba](https://img.shields.io/github/followers/eaba?label=follow&style=social)](https://github.com/eaba) 
-
-
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eaba&hide=jupyter%20notebook,html,javascript)
-![repo stats](https://github-readme-stats.vercel.app/api?username=eaba&show_icons=true&line_height=27)
-
 ---
 
 <div align='center'>
